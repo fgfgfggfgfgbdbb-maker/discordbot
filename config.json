@@ -1,6 +1,7 @@
 {
-  "TOKEN": "MTA1NTExNzU1NjAwMTgwODQ5NA.GfxwgA.HWLs4gBKCGFl4XC7Vv02Kke_iC7ICmqR2T4XNg",
-  "LOG_CHANNEL": 1461709674071064596,
+  "TOKEN": "your bot token",
+  "LOG_CHANNEL": id for log channel 6,
   "WHITELIST": [],
   "RAID_MODE": false
 }
+
